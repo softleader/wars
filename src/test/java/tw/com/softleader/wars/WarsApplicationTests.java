@@ -1,4 +1,4 @@
-package tw.com.softleader.dronepipe;
+package tw.com.softleader.wars;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,10 +7,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class DronePipeApplicationTests {
+public class WarsApplicationTests {
 
-	@Test
-	public void contextLoads() {
-	}
-
+  @Test
+  public void contextLoads() {}
 }
